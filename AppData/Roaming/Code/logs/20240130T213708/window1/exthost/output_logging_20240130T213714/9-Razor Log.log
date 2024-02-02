@@ -1,0 +1,13 @@
+--------------------------------------------------------------------------------
+Razor.VSCode version 7.0.0-preview.23627.2
+--------------------------------------------------------------------------------
+Razor's log level is currently set to 'Information'
+ - To change Razor's log level set 'razor.server.trace' and then restart VSCode.
+ - To report issues invoke the 'Report a Razor issue' command via the command palette.
+-----------------------------------------------------------------------------------------------------------------------------
+
+Using dotnet configured on PATH
+[Client - 9:37:30 PM] Razor language server path: c:\Users\hp\.vscode\extensions\ms-dotnettools.csharp-2.15.30-win32-x64\.razor\rzls.exe
+[Client - 9:37:30 PM] Server arguments --logLevel 2 --projectConfigurationFileName project.razor.vscode.bin --DelegateToCSharpOnDiagnosticPublish true --UpdateBuffersForClosedDocuments true
+[Client - 9:37:32 PM] No Razor files detected in workspace, delaying language server start.
+[Client - 9:38:13 PM] Disposing Razor Language Server.

@@ -1,0 +1,3 @@
+2024-01-29T11:08:25.548444+03:00 0x00002dcc <INFO> wWinMain: Starting process_type: ''
+2024-01-29T11:08:25.564066+03:00 0x00002dcc <INFO> UnlockLimitedAccessFeatures: UnlockLimitedAccessFeatures: Limited access feature, status = Unavailable
+2024-01-29T11:08:25.564066+03:00 0x00002dcc <INFO> RoomsPlatformUtils: Process invoked without rooms flag, no platform ID override provided

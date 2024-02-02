@@ -1,0 +1,39 @@
+# encoding: utf-8
+# module pyarrow._compute
+# from C:\Users\hp\PycharmProjects\Text_Summarizer\venv\lib\site-packages\pyarrow\_compute.cp38-win_amd64.pyd
+# by generator 1.147
+# no doc
+
+# imports
+import builtins as __builtins__ # <module 'builtins' (built-in)>
+import sys as sys # <module 'sys' (built-in)>
+import pyarrow.lib as lib # C:\Users\hp\PycharmProjects\Text_Summarizer\venv\lib\site-packages\pyarrow\lib.cp38-win_amd64.pyd
+import inspect as inspect # C:\Users\hp\AppData\Local\Programs\Python\Python38\lib\inspect.py
+import numpy as np # C:\Users\hp\PycharmProjects\Text_Summarizer\venv\lib\site-packages\numpy\__init__.py
+import warnings as warnings # C:\Users\hp\AppData\Local\Programs\Python\Python38\lib\warnings.py
+from pyarrow.lib import ArrowInvalid, frombytes, tobytes
+
+import pyarrow.lib as __pyarrow_lib
+
+
+from ._RoundBinaryOptions import _RoundBinaryOptions
+
+class RoundBinaryOptions(_RoundBinaryOptions):
+    """
+    Options for rounding numbers when ndigits is provided by a second array
+    
+        Parameters
+        ----------
+        round_mode : str, default "half_to_even"
+            Rounding and tie-breaking mode.
+            Accepted values are "down", "up", "towards_zero", "towards_infinity",
+            "half_down", "half_up", "half_towards_zero", "half_towards_infinity",
+            "half_to_even", "half_to_odd".
+    """
+    def __init__(self, round_mode=None): # real signature unknown; restored from __doc__
+        """ RoundBinaryOptions.__init__(self, round_mode=u'half_to_even') """
+        pass
+
+    __dict__ = None # (!) real value is 'mappingproxy({\'__module__\': \'pyarrow._compute\', \'__doc__\': \'\\n    Options for rounding numbers when ndigits is provided by a second array\\n\\n    Parameters\\n    ----------\\n    round_mode : str, default "half_to_even"\\n        Rounding and tie-breaking mode.\\n        Accepted values are "down", "up", "towards_zero", "towards_infinity",\\n        "half_down", "half_up", "half_towards_zero", "half_towards_infinity",\\n        "half_to_even", "half_to_odd".\\n    \', \'__init__\': <cyfunction RoundBinaryOptions.__init__ at 0x000001FEE40FDE10>, \'__dict__\': <attribute \'__dict__\' of \'RoundBinaryOptions\' objects>})'
+
+

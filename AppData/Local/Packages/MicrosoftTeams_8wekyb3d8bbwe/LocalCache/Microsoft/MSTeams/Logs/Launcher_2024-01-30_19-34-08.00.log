@@ -1,0 +1,3 @@
+2024-01-30T16:34:08.934452+03:00 0x00002c7c <INFO> wWinMain: Starting process_type: ''
+2024-01-30T16:34:08.950074+03:00 0x00002c7c <INFO> UnlockLimitedAccessFeatures: UnlockLimitedAccessFeatures: Limited access feature, status = Unavailable
+2024-01-30T16:34:08.950074+03:00 0x00002c7c <INFO> RoomsPlatformUtils: Process invoked without rooms flag, no platform ID override provided

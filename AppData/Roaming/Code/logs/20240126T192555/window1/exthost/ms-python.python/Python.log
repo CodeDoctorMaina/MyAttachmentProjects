@@ -1,0 +1,24 @@
+2024-01-26 19:26:17.394 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-26 19:26:17.394 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-26 19:26:17.394 [info] Experiment 'pythonSurveyNotification' is active
+2024-01-26 19:26:17.394 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-26 19:26:17.394 [info] Experiment 'pythonTestAdapter' is active
+2024-01-26 19:26:17.394 [info] Default formatter is set to null for workspace c:\Users\hp\Desktop\Myprojects\Mypythontrials
+2024-01-26 19:26:17.394 [info] Test server listening.
+2024-01-26 19:26:17.394 [info] Python interpreter path: C:\Program Files\Python312\python.exe
+2024-01-26 19:26:28.800 [info] > conda info --json
+2024-01-26 19:26:33.565 [info] Starting Pylance language server.
+2024-01-26 19:27:24.480 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-01-26 19:27:24.480 [info] Experiment 'pythonREPLSmartSend' is active
+2024-01-26 19:27:24.480 [info] Experiment 'pythonSurveyNotification' is active
+2024-01-26 19:27:24.480 [info] Experiment 'pythonTerminalEnvVarActivationcf' is active
+2024-01-26 19:27:24.480 [info] Experiment 'pythonTestAdapter' is active
+2024-01-26 19:27:24.480 [info] Default formatter is set to null for workspace c:\Users\hp\OneDrive\Documents\GitHub\New respiratory\TitoKamau053
+2024-01-26 19:27:24.485 [info] Test server listening.
+2024-01-26 19:27:24.513 [info] Python interpreter path: C:\Program Files\Python312\python.exe
+2024-01-26 19:27:26.216 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-26 19:27:26.427 [warning] Retry failed, storage update failed for key PYTHON_GLOBAL_STORAGE_KEYS
+2024-01-26 19:27:26.681 [info] > conda info --json
+2024-01-26 19:27:30.674 [info] Starting Pylance language server.
+2024-01-26 19:27:44.896 [info] > ~\anaconda3\Scripts\conda.exe info --json
+2024-01-26 19:27:50.753 [info] > ~\anaconda3\condabin\conda.bat info --json

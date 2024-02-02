@@ -1,0 +1,9 @@
+Using dotnet configured on PATH
+Dotnet path: C:\Program Files\dotnet\dotnet.exe
+Activating C# standalone...
+waiting for named pipe information from server...
+[stdout] {"pipeName":"\\\\.\\pipe\\f3ec2426"}
+received named pipe information from server
+attempting to connect client to server...
+client has connected to server
+[Info  - 8:37:47 PM] [Program] Language server initialized

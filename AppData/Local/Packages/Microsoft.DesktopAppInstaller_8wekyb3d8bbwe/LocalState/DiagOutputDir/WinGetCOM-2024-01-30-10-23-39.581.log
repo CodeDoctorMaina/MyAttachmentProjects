@@ -1,0 +1,7 @@
+2024-01-30 10:23:39.769 [CORE] Valid settings file not found. Using default values.
+2024-01-30 10:23:39.771 [CORE] WinGet, version [1.6.3482], activity [{6F6E6AEF-4D76-4DCA-BB0C-F994090F5868}]
+2024-01-30 10:23:39.772 [CORE] OS: Windows.Desktop v10.0.22621.3085
+2024-01-30 10:23:39.772 [CORE] Command line Args: "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe" -Embedding
+2024-01-30 10:23:39.772 [CORE] Package: Microsoft.DesktopAppInstaller v1.21.3482.0
+2024-01-30 10:23:39.772 [CORE] IsCOMCall:1; Caller: C:\Windows\explorer.exe
+2024-01-30 10:23:39.893 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information

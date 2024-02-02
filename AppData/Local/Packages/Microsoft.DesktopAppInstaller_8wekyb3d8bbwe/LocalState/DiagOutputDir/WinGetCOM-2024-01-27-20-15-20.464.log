@@ -1,0 +1,72 @@
+2024-01-27 20:15:20.614 [CORE] Valid settings file not found. Using default values.
+2024-01-27 20:15:20.617 [CORE] WinGet, version [1.6.3482], activity [{92274AEC-1102-44C7-A4FE-8657C6A7D767}]
+2024-01-27 20:15:20.617 [CORE] OS: Windows.Desktop v10.0.22621.3085
+2024-01-27 20:15:20.617 [CORE] Command line Args: "C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.21.3482.0_x64__8wekyb3d8bbwe\WindowsPackageManagerServer.exe" -Embedding
+2024-01-27 20:15:20.617 [CORE] Package: Microsoft.DesktopAppInstaller v1.21.3482.0
+2024-01-27 20:15:20.617 [CORE] IsCOMCall:1; Caller: C:\Windows\explorer.exe
+2024-01-27 20:15:20.716 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2024-01-27 20:15:21.087 [REPO] Response status: 200
+2024-01-27 20:15:21.089 [REPO] Sending http GET request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/information
+2024-01-27 20:15:21.168 [REPO] Response status: 200
+2024-01-27 20:15:21.177 [REPO] Creating new SQLite Index with version [Latest] at ':memory:'
+2024-01-27 20:15:21.178 [SQL ] Opening SQLite connection #1: ':memory:' [6, 0]
+2024-01-27 20:15:21.282 [REPO] Reading MSI UpgradeCodes
+2024-01-27 20:15:21.350 [REPO] Reading MSI UpgradeCodes
+2024-01-27 20:15:21.418 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(1) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.434 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(2) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.446 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(3) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.469 [FAIL] WindowsPackageManager.dll!00007FFC497A4150: LogHr(1) tid(2c44) 80070490 Element not found.
+
+2024-01-27 20:15:21.470 [REPO] winrt::hresult_error[0x80070490: Element not found.] exception thrown when getting DisplayName for Microsoft.WindowsAppRuntime.1.3_8wekyb3d8bbwe
+2024-01-27 20:15:21.477 [FAIL] WindowsPackageManager.dll!00007FFC497A4150: LogHr(2) tid(2c44) 80070490 Element not found.
+
+2024-01-27 20:15:21.477 [REPO] winrt::hresult_error[0x80070490: Element not found.] exception thrown when getting DisplayName for Microsoft.WindowsAppRuntime.1.3_8wekyb3d8bbwe
+2024-01-27 20:15:21.477 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(4) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.507 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(5) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.747 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(6) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.757 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(7) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.804 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(8) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.809 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(9) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:21.823 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(10) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:22.004 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(11) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:22.106 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(12) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:22.134 [FAIL] C:\__w\1\s\external\pkg\src\AppInstallerRepositoryCore\Microsoft\Schema\1_0\Interface_1_0.cpp(197)\WindowsPackageManager.dll!00007FFC497D597D: (caller: 00007FFC497DBE09) Exception(13) tid(2c44) 800700B7 Cannot create a file when that file already exists.
+
+2024-01-27 20:15:22.293 [SQL ] Opening SQLite connection #2: ':memory:' [6, 0]
+2024-01-27 20:15:22.338 [REPO] Finding available package from installed package using system reference search: Query:[none] Include:ProductCode='microsoft edge'[Exact] Include:NormalizedNameAndPublisher='microsoftedge'+'microsoft'[Exact]
+2024-01-27 20:15:22.354 [REPO] Opening SQLite Index for ReadWrite at 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\StoreEdgeFD\installed.db'
+2024-01-27 20:15:22.354 [SQL ] Opening SQLite connection #3: 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\StoreEdgeFD\installed.db' [2, 0]
+2024-01-27 20:15:22.359 [REPO] Opened SQLite Index with version [1.6], last write [2023-10-24 21:16:40.000]
+2024-01-27 20:15:22.370 [REPO] Finding available package from installed package using system reference search: Query:[none] Include:ProductCode='microsoft edge update'[Exact]
+2024-01-27 20:15:22.371 [REPO] Finding available package from installed package using system reference search: Query:[none] Include:ProductCode='microsoft edgewebview'[Exact] Include:NormalizedNameAndPublisher='microsoftedgewebview2runtime'+'microsoft'[Exact]
+2024-01-27 20:15:22.374 [REPO] Sending http POST request to: https://storeedgefd.dsx.mp.microsoft.com/v9.0/manifestSearch
+2024-01-27 20:15:22.744 [REPO] Response status: 200
+2024-01-27 20:15:22.756 [REPO] Opening pinning index
+2024-01-27 20:15:22.756 [REPO] Opening existing pinning index
+2024-01-27 20:15:22.756 [REPO] Opening SQLite Index for ReadWrite at 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\pinning.db'
+2024-01-27 20:15:22.756 [SQL ] Opening SQLite connection #4: 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\pinning.db' [2, 0]
+2024-01-27 20:15:22.765 [REPO] Opened Pinning Index with version [1.0], last write [2023-10-24 21:16:41.000]
+2024-01-27 20:15:22.822 [SQL ] Opening SQLite connection #5: ':memory:' [6, 0]
+2024-01-27 20:15:22.840 [REPO] Finding available package from installed package using system reference search: Query:[none] Include:ProductCode='microsoft edge'[Exact] Include:NormalizedNameAndPublisher='microsoftedge'+'microsoft'[Exact]
+2024-01-27 20:15:22.856 [REPO] Opening SQLite Index for ReadWrite at 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\Microsoft.Winget.Source_8wekyb3d8bbwe\installed.db'
+2024-01-27 20:15:22.856 [SQL ] Opening SQLite connection #6: 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\Microsoft.Winget.Source_8wekyb3d8bbwe\installed.db' [2, 0]
+2024-01-27 20:15:22.891 [REPO] Opened SQLite Index with version [1.6], last write [2023-11-17 07:39:09.000]
+2024-01-27 20:15:22.899 [REPO] Finding available package from installed package using system reference search: Query:[none] Include:ProductCode='microsoft edge update'[Exact]
+2024-01-27 20:15:22.900 [REPO] Finding available package from installed package using system reference search: Query:[none] Include:ProductCode='microsoft edgewebview'[Exact] Include:NormalizedNameAndPublisher='microsoftedgewebview2runtime'+'microsoft'[Exact]
+2024-01-27 20:15:22.911 [REPO] Opening pinning index
+2024-01-27 20:15:22.911 [REPO] Opening existing pinning index
+2024-01-27 20:15:22.911 [REPO] Opening SQLite Index for ReadWrite at 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\pinning.db'
+2024-01-27 20:15:22.911 [SQL ] Opening SQLite connection #7: 'C:\Users\hp\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\pinning.db' [2, 0]
+2024-01-27 20:15:22.912 [REPO] Opened Pinning Index with version [1.0], last write [2023-10-24 21:16:41.000]

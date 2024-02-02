@@ -1,0 +1,288 @@
+{
+  "appInfo" : {
+    "build" : "222.4345.35",
+    "buildDate" : "2022-10-26T14:27:57.14Z[UTC]",
+    "productCode" : "PE",
+    "generated" : "2024-02-02T07:20:37.2640896Z",
+    "os" : "Windows 11 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.4.1 17.0.4.1+7-b469.62"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1056964608,
+    "numberOfProcessors" : 4,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "russian_roullet.py.py",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 370389604200,
+      "indexingTime" : 3329618300,
+      "contentLoadingVisibleTime" : 450394674,
+      "creatingIteratorsTime" : 5982800,
+      "scanFilesTime" : 366583867400,
+      "pushPropertiesTime" : 0,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 2525454629,
+      "updatingStart" : "2024-02-02T07:14:26.8333667Z",
+      "updatingEnd" : "2024-02-02T07:20:37.223435Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 6,
+      "numberOfScannedFiles" : 413430,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 198,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 115
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 7750317600,
+        "total" : 9528377400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1296846000,
+        "total" : 1299328000
+      },
+      "totalNumberOfFiles" : 112,
+      "totalFilesSize" : 32631083,
+      "indexingSpeed" : {
+        "totalBytes" : 32631083,
+        "totalTime" : 7750317600
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'hp' (hp)",
+        "numberOfFiles" : 112,
+        "totalFilesSize" : 32631083,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 7750317600,
+          "total" : 7750317600
+        }
+      } ]
+    }, {
+      "fileType" : "textmate",
+      "partOfTotalProcessingTime" : {
+        "part" : 951957300,
+        "total" : 9528377400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 537100,
+        "total" : 1299328000
+      },
+      "totalNumberOfFiles" : 2,
+      "totalFilesSize" : 30552,
+      "indexingSpeed" : {
+        "totalBytes" : 30552,
+        "totalTime" : 951957300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'hp' (hp)",
+        "numberOfFiles" : 2,
+        "totalFilesSize" : 30552,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 951957300,
+          "total" : 951957300
+        }
+      } ]
+    }, {
+      "fileType" : "JSON",
+      "partOfTotalProcessingTime" : {
+        "part" : 826102500,
+        "total" : 9528377400
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 1944900,
+        "total" : 1299328000
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 237937,
+      "indexingSpeed" : {
+        "totalBytes" : 237937,
+        "totalTime" : 826102500
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'hp' (hp)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 237937,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 826102500,
+          "total" : 826102500
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 453943700,
+        "total" : 763460500
+      },
+      "totalNumberOfFiles" : 21,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3102497,
+      "indexingSpeed" : {
+        "totalBytes" : 3102497,
+        "totalTime" : 453943700
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 191943600,
+        "total" : 763460500
+      },
+      "totalNumberOfFiles" : 19,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 3101696,
+      "indexingSpeed" : {
+        "totalBytes" : 3101696,
+        "totalTime" : 191943600
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "json.file.root.values",
+      "partOfTotalIndexingTime" : {
+        "part" : 117573200,
+        "total" : 763460500
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 237937,
+      "indexingSpeed" : {
+        "totalBytes" : 237937,
+        "totalTime" : 117573200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'hp' (hp)",
+      "numberOfScannedFiles" : 386415,
+      "numberOfSkippedFiles" : 29117,
+      "numberOfFilesForIndexing" : 198,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 342535219309,
+      "scanningTime" : 347502135150,
+      "timeProcessingUpToDateFiles" : 4568844733,
+      "timeUpdatingContentLessIndexes" : 1177862680,
+      "timeIndexingWithoutContent" : 6538800,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Python SDK Python 3.8 (venv)",
+      "numberOfScannedFiles" : 26801,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 32126685725,
+      "scanningTime" : 33087717100,
+      "timeProcessingUpToDateFiles" : 2930573360,
+      "timeUpdatingContentLessIndexes" : 1125190493,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@2935a5e0' (non-project)",
+      "numberOfScannedFiles" : 214,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1420892807,
+      "scanningTime" : 1423875785,
+      "timeProcessingUpToDateFiles" : 984712528,
+      "timeUpdatingContentLessIndexes" : 3211489,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@2935a5e0' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'hp' (hp)",
+      "totalNumberOfIndexedFiles" : 115,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 3302884600,
+      "contentLoadingVisibleTime" : 450394674,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ {
+        "fileName" : "pt_02.02.2024_09.13.28.688.log",
+        "processingTime" : 550393000,
+        "indexingTime" : 108181300,
+        "contentLoadingTime" : 304200
+      }, {
+        "fileName" : "Update_2024-01-26_110257_10488-10412.log",
+        "processingTime" : 595036200,
+        "indexingTime" : 0,
+        "contentLoadingTime" : 15000
+      }, {
+        "fileName" : "MSTeams_2024-01-24_16-46-23.00.log",
+        "processingTime" : 603221900,
+        "indexingTime" : 0,
+        "contentLoadingTime" : 5833300
+      }, {
+        "fileName" : "catalog.json",
+        "processingTime" : 826102500,
+        "indexingTime" : 642838800,
+        "contentLoadingTime" : 1944900
+      } ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 2525454629
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.34663662671463874
+  }
+}
